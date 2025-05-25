@@ -1,0 +1,39 @@
+
+
+#bodyindex {
+        background-color: rgb(196, 196, 196);
+    }
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#bodyverde {
+        background-color: rgb(190, 255, 177);
+    }
+
+    #h1verde{
+        color: rgb(27, 112, 1);
+        
+    }
+
+    #pverde{
+        color: rgb(27, 112, 1);
+        
+    }
+
+#bodyama {
+    background-color: rgb(248, 243, 171);
+}
+
+#h1ama{
+    color: rgb(141, 139, 27);
+}
+
+#pama {
+    color: rgb(141, 139, 27);
+}
